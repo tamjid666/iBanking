@@ -1,0 +1,16 @@
+#internet banking system
+
+This is a Java-based GUI application for managing internet banking system.
+it allows any users to create a account.
+
+
+#Features
+-user authentication (automatically create account no.)
+-profile(user check his/her account) 
+-deposit (add money)
+-withdrawal processing(remove money)
+-balance check
+-transfer money(must be transfer different user)
+
+
+
